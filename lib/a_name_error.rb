@@ -1,3 +1,3 @@
 "hello world"
 
-hello_world
+"Learning how to read errors in ruby"
